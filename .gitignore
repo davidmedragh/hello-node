@@ -105,3 +105,6 @@ dist
 
 #local history
 .history
+
+#VSCODE files
+.vscode/
